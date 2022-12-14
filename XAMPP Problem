@@ -1,0 +1,5 @@
+xampp\mysql\bin\my.ini
+
+[mysqlid]
+
+skip-grant-tables
