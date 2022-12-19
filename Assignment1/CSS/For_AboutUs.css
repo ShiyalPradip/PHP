@@ -1,0 +1,46 @@
+.AboBK{
+    background-color: CornflowerBlue;
+    width: 100%;
+    height: 530px;
+    float: left;
+}
+
+.ProInfo{
+    margin-top: 130px;
+    margin-left: 170px;
+    float: left;
+}
+
+.AboMe{
+    margin-top: 130px;
+    margin-left: 200px;
+    float: left;
+}
+
+.ForMe{
+    background-color: Cornsilk;
+    width: 400px;
+    height: 260px;
+    border-radius: 30px;
+}
+
+.AboColor{
+    color: red;
+    text-align: center;
+    border-bottom: 8px solid cornflowerblue;
+}
+
+.ForProInfo{
+    color: blue;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+.AboMeCon{
+    color: blue;
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 19px;
+    font-family: Georgia;
+}

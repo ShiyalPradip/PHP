@@ -1,0 +1,48 @@
+table{
+    background-color: CornflowerBlue;
+    border: 9px double white;
+    margin-top: 100px;
+    border-radius: 21px;
+}
+
+th{
+    border-bottom: 3px dashed blue;
+    color: white;
+    font-size: 22px;
+}
+
+.HeWi{
+    width: 430px;
+    height: 230px;
+}
+
+.Text{
+    text-align: right;
+    color: aqua;
+    font-weight: bold;
+    font-family: georgia;
+}
+
+input[type='submit']{
+    color: blue;
+    font-size: 17px;
+    font-weight: bold;
+    background-color: cyan;
+    border: 6px double white;
+    border-radius: 10px;
+}
+
+input[type='submit']:hover{
+    background-color: blue;
+    color: red;
+    border-color: aqua;
+}
+
+input[type='submit']:active{
+    transform: scale(1.1);
+}
+
+input{
+    border-radius: 10px;
+    border: 3px solid red;
+}

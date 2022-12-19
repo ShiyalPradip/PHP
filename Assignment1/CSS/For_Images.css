@@ -1,0 +1,31 @@
+/* This Is For Website Logo */
+.Logo{
+    width: 130px;
+    border-radius: 100px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+/* Background Image */
+.BkImage{
+    width: 100%;
+    height: 75%;
+}
+
+/* This For Image Of Footer */
+.FooterImg{
+    width: 100%;
+    height: 260px;
+}
+
+/* This Is For Channel Logo  */
+.FooterLogo{
+    position: absolute;
+    bottom: -220px;
+    left: 590px;
+}
+
+.FooterLogo img{
+    width: 160px;
+    height: 160px;
+}
