@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+}
+.Wrap{
+    width: 1349px;
+    background-color: aqua;
+    margin: auto;
+}
+
+.Header{
+    height: 150px;
+    background: burlywood;
+}
+
+.Nav{
+    height: 50px;
+    background:gold;
+}
+
+.Container{
+    height: 768px;
+    background: blanchedalmond;
+}
+
+.Footer{
+    height: 80px;
+    background: brown;
+}
+
+.Left{
+    background: cadetblue;
+    width: 20%;
+    height: 100%;
+    float: left;
+}
+
+.Right{
+    background: aquamarine;
+    width: 80%;
+    height: 770px;
+    float: left;
+}

@@ -1,0 +1,26 @@
+.BodyHeight{
+    height: 550px;
+    background-color: darkblue;
+}
+
+.Bodytable{
+    margin-top: 100px;
+    text-align: center;
+}
+
+.Bodyth{
+    border: 6px solid white;
+    color: white;
+    font-size: 22px;
+}
+
+a{
+    text-decoration: none;
+    color: aqua;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+a:hover{
+    color: red;
+}

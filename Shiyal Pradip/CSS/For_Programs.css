@@ -1,0 +1,9 @@
+.TableHeight{
+    height: 600px;
+    background-color: darkblue;
+}
+
+.TableMargin{
+    margin-top: 50px;
+    text-align: center;
+}
