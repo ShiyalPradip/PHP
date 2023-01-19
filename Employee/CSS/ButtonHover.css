@@ -1,0 +1,29 @@
+/* Hover Effect For Add Button */
+.Add:hover{
+    background-color: blue;
+    border: 5px solid blue;
+    color: white;
+}
+
+.Add:active,.Show:active,.Clear:active,.Download:active{
+    transform: scale(1.1);
+}
+
+/* Hover Effect For Show Button */
+.Show:hover{
+    color: white;
+    background-color: red;
+}
+
+/* Hover Effect For Clear Button */
+.Clear:hover{
+    background-color: Aqua;
+    border: 5px solid Aqua;
+    color: black;
+}
+
+/* Hover Effect For Download Button */
+.Download:hover{
+    background-color: orangered;
+    color: white;
+}
