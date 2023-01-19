@@ -1,0 +1,47 @@
+.Background{
+    border: 10px double white;
+    width: 60%;
+    border-radius: 15px;
+    background-color: black;   
+    margin-top: 140px;
+    opacity: 0.9;
+}
+
+.Align{
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    color: red;
+    background-color: white;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.Border{
+    border: 3px solid blue;
+    border-radius: 9px;
+}
+
+.Font{
+    color: white;
+    font-family: georgia;
+}
+
+.Align2{
+    text-align: center;
+}
+
+.Button{
+    color: yellow;
+    border: 2px solid red;
+}
+
+th{
+    color: white;
+    font-size: large;
+}
+
+td{
+    font-weight: bold;
+    color: MediumBlue;
+}
