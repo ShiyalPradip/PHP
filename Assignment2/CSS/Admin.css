@@ -1,0 +1,23 @@
+#Hacker{
+    background-image: url('../Images/Hacker2.png');
+    background-size: cover;
+    background-position: fixed;
+}
+
+.Username{
+    color: Lime;
+}
+
+.Table-Heading{
+    color: Lime;
+    background-color: black;
+    opacity: 0.8;
+}
+
+.For-Table{
+    box-shadow: 10px 0px 30px 6px Lime;
+}
+
+.Data{
+    color: white;
+}
