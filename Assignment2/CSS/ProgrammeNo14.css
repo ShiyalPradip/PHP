@@ -1,9 +1,0 @@
-.SearchText{
-    text-decoration: none;
-    color: aqua;
-    font-weight: bold;
-}
-
-.SearchText:hover{
-    color: red;
-}
