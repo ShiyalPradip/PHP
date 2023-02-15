@@ -1,0 +1,78 @@
+.Bg-Calcu{
+    background-image: url(../../Images/Calcu.png);
+    background-size: cover;
+}
+
+.Bg-Table{
+    background-image: url(../../Images/Multi.png);
+    background-size: cover;
+}
+
+.Bg-Fibo{
+    background-image: url(../../Images/Fibo.png);
+    background-size: cover;   
+}
+
+.Bg-Facto{
+    background-image: url(../../Images/Factorial.png);
+    background-size: cover;   
+}
+
+.Div{
+    margin-top: 90px;
+    /* text-shadow: 5px 3px 10px black; */
+    box-shadow: 10px 0px 40px 6px black;
+    border-radius: 30px;
+}
+
+.Head-Calcu{
+    color: blue;
+}
+
+.Head-Table{
+    text-shadow: 5px 3px 10px black;
+}
+
+.Lbl{
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+}
+
+.TxtBox-Calcu{
+    border-radius: 10px;
+    border: 2px solid red;
+    background: none;
+}
+
+.TxtBox-Table{
+    border-radius: 10px;
+    border: 2px solid red;
+    opacity: 0.9;
+}
+
+.Btn-Calcu{
+    background-color: black;
+    border: 3px solid red;
+    color: white;
+    font-weight: bold;
+    width: 60px;
+    font-size: 18px;
+}
+
+.Btn-Table{
+    background-color: black;
+    border: 2px solid red;
+    color: white;
+    font-weight: bold;
+}
+
+.Calcu-Button-Margin{
+    margin-left: 20px;
+}
+
+.Btn-Calcu:hover , .Btn-Table:hover{
+    background-color: blue;
+    border: 2px solid cyan;
+    color: white;
+}
