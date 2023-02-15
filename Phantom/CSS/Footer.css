@@ -1,0 +1,26 @@
+.Footer{
+    background-color: MediumSlateBlue;
+    width: 100%;
+}
+
+footer img{
+    width: 153px;
+    margin-top: 30px;
+    box-shadow: -2px -1px 15px 15px white;
+    border-radius: 100%;
+}
+
+footer h2{
+    font-weight: bold;
+    color: white;
+    text-shadow: 5px 2px 8px black;
+}
+
+footer marquee{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-weight: bolder;
+    font-size: 20px;
+    color: white;
+    text-shadow: 2px 2px 8px black;
+}
