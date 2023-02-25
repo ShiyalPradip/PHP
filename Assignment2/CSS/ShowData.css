@@ -1,0 +1,15 @@
+.ShowData{
+    /* background-color: white; */
+    box-shadow: 10px 0px 40px 0px black;
+}
+
+.TotalBox{
+    border-radius: 10px;
+    margin-left: 10px;
+    text-align: center;
+    width: 100px;
+    border: 2px solid red;
+    background: black;
+    color: white;
+    font-weight: bold;
+}

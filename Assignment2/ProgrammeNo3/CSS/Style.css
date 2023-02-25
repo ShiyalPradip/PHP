@@ -1,0 +1,49 @@
+.ForDiv{
+    opacity: 0.9;
+    margin-top: 30px;
+    border-radius: 10px;
+    border: 2px solid  white;
+}
+
+.ForFont{
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 20px;
+}
+
+.Radio{
+    color: white;
+    font-weight: bold;
+}
+
+#TextBox{
+    border: 2px solid cyan;
+    border-radius: 20px;
+    font-weight: bold;
+    color: blue;
+}
+
+#TextBox:hover{
+    border: 2px solid blue;
+}
+
+#Button{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    border: 2px solid red;
+    border-radius: 5px;
+    transition: background-color 1s, border 1s;
+    height: 40px;
+}
+
+#Button:hover{
+    background-color: blue;
+    border: 2px solid cyan;
+    color: white;
+}
+
+#Button:active{
+    transform: scale(1.1);
+}
