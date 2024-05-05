@@ -53,21 +53,5 @@
     <script src="Ajax/Ajax-InsertRecord.js"></script>
     <script src="Ajax/Ajax-DeleteRecord.js"></script>
     <script src="Ajax/Ajax-UpdateRecord.js"></script>
-    <script>
-        $("#Search").on("keyup", function(){
-
-            var Js_Search = $(this).val();
-
-            $.ajax({
-                url: "Action/Act-Search.php",
-                type: "POST",
-                data: {
-                    Key_Search: Js_Search
-                },
-                success: function (Data) {
-                    $("#Tbl-Show-Records").html(Data);   
-                }
-            });
-        });
-    </script>
+   <script src="Ajax/Ajax-Search.js"></script>
 </html>
