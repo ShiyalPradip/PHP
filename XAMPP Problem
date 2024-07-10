@@ -6,7 +6,8 @@ skip-grant-tables
 
 1) mklink /D C:\xampp\htdocs\LINKName<\>D:\PHP
 
-2) DocumentRoot : "Path"
+(C:\xampp\apache\conf\)
+2) DocumentRoot : "Path" 
 
 <Directory "D:/path_to_your_php_files">
     Options Indexes FollowSymLinks Includes ExecCGI
